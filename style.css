@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(238, 232, 232);
+    margin: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: red;
+}
+
+.grijs {
+    color: grey;
+}
+
+a {
+    text-decoration: none;
+    background-color: tomato;
+    color: white;
+    padding: 1em;
+    display: inline-block;
+}
+
+body {
+    background-color: rgb(233, 234, 234);
+}
